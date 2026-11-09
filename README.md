@@ -1,20 +1,23 @@
-```
-قبل ما تخش على الكلام الانجليزي المجعلص
-الموضوع بسيط و تافه و مش محتاج تعقيد
-دا مشروع بيسط بتبدا بيه على كاجل
-اللي انا طالبه منك لما بتدا
-تذاكر النوتبوك و تكتبها بنفسك و تعرف كل سطر بيعمل ايه
-و في الاخر خالص تكون عرفت ايه هوال **EDA** 
-و تكون عرفت تستخدم الخوارزميات من مكتبة **sklearn**
-الموضوع بسيط و مافيهوش تعقيد
-```
-
 # Titanic - Machine Learning from Disaster 🚢
 
-A beginner-friendly walkthrough of the Kaggle **Titanic** competition: predicting which passengers survived using a classification model in Python.
+<div dir="rtl">
 
-## 🎯 Who is this for?
-Anyone starting their first Kaggle competition. Titanic is the best entry point: small dataset, clear goal, and a fast feedback loop.
+## 🎯 الهدف من المشروع
+
+ده مشروع بسيط تبدأ بيه على Kaggle. الموضوع مش معقد.
+
+لما تبدأ:
+
+- ذاكر النوتبوك واكتبه بنفسك
+- افهم كل سطر بيعمل إيه
+- في الآخر تكون عرفت يعني إيه **EDA**
+- وتكون عرفت تستخدم الخوارزميات من مكتبة **sklearn**
+
+</div>
+
+---
+
+A beginner-friendly walkthrough of the Kaggle **Titanic** competition: predicting which passengers survived using a classification model in Python.
 
 ## 📌 The Problem
 Given passenger data (age, sex, class, fare, ...), predict whether each passenger **survived (1)** or **not (0)**. This is a **binary classification** problem.
@@ -43,8 +46,8 @@ The data files are not included in this repo. Download them from the
 
 ## ▶️ How to Run
 ```bash
-git clone https://github.com/beshara997/titanic-kaggel-project.git
-cd titanic-kaggel-project
+git clone https://github.com/beshara997/titanic-kaggle-project.git
+cd titanic-kaggle-project
 pip install pandas scikit-learn jupyter
 jupyter notebook titanic.ipynb
 ```
@@ -60,4 +63,4 @@ jupyter notebook titanic.ipynb
 - Submit early, then improve
 
 ## 👤 Author
-**beshara997** · 3rd-year CS student, interested in cybersecurity
+**beshara997** · 3rd-year AI student at Assiut University
